@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/angular-animate.png?downloads=true)](https://www.npmjs.com/package/angular-animate)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular-animate%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular-animate%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.npmPackageListing.svg)
 
