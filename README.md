@@ -1,9 +1,14 @@
-# api documentation for  [angular-animate (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-animate)
+# npmdoc-angular-animate
+
+#### api documentation for  [angular-animate (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-animate)
+
 #### AngularJS module for animations
 
-[![NPM](https://nodei.co/npm/angular-animate.png?downloads=true)](https://www.npmjs.com/package/angular-animate)
+[![NPM](https://nodei.co/npm/angular-animate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-animate)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular-animate%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-animate/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-animate/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Angular Core Team",
-        "email": "angular-core+npm@google.com"
+        "name": "Angular Core Team"
     },
     "bugs": {
         "url": "https://github.com/angular/angular.js/issues"
@@ -53,21 +57,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "akalinovski",
-            "email": "a.kalinovski@gmail.com"
+            "name": "akalinovski"
         },
         {
-            "name": "angularcore",
-            "email": "angular-core+npm@google.com"
+            "name": "angularcore"
         },
         {
-            "name": "petebd",
-            "email": "pete@bacondarwin.com"
+            "name": "petebd"
         }
     ],
     "name": "angular-animate",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.js.git"
@@ -78,16 +78,6 @@
     "version": "1.6.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-animate](#apidoc.module.angular-animate)
-
-
-
-# <a name="apidoc.module.angular-animate"></a>[module angular-animate](#apidoc.module.angular-animate)
 
 
 
